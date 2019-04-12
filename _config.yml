@@ -1,7 +1,7 @@
 # Site settings
-title: Highlights
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Highlights theme by HTML5 UP.
+title: Explorer
+email: ronniek@gmail.com
+description: Discover my thoughts and interest.
 baseurl: "/highlights-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
