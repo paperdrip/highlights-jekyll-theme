@@ -7,11 +7,11 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com
+facebook_url: 
 github_url: https://github.com/paperdrip
 gitlab_url: 
 googleplus_url: 
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/paperdrip
 linkedin_url: https://www.linkedin.com/in/ronnie-kwok-62b01113
 pinterest_url:
 slack_url:
