@@ -1,6 +1,6 @@
 # Site settings
 title: Explorer
-email: ronniek@gmail.com
+email: contact@ronniek.me
 description: Discover my thoughts and interest.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
